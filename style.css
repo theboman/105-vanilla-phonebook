@@ -1,0 +1,24 @@
+body {
+  background-color: grey;
+}
+
+.container {
+  width: 900px;
+  background-color: lightgrey;
+}
+
+table {
+  border: 1px solid black;
+  width: 100%;
+}
+
+#head {
+  background: green;
+  border: 1px solid pink;
+  color: white;
+}
+
+.checkbox {
+  width: 50px;
+}
+/*# sourceMappingURL=style.css.map */
